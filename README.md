@@ -6,7 +6,8 @@ The purpose of this project is to provide access to reported UFO sightings in a 
 
 ## Results:
 
-[img]
+![image](https://user-images.githubusercontent.com/82285562/124516507-6b099880-dda7-11eb-9530-25120d2bce8e.png)
+
 To search through sighting records, input search values into the available fields (Date, City, State, Country, and Shape). The page will reload the data upon input, showing only the records that match those parameters.
 
 ## Summary:
